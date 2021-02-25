@@ -6,7 +6,7 @@ This project is to create two queries from Measurment Table to get the tempretur
 
 - Sqlalchemy library was imported to use SQLite engine for our queries.  
 - The query results for months of june and December were respectively saved in dataframes called june_df and dec_df
-- The project also calculated and printed out the summary for [June](june.png) and [December](dec.png) tempratures. 
+- The project also calculated and printed out the summary for **[June](june.png)** and **[December](dec.png)** tempratures. 
 
 ## Results:
 
