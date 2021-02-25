@@ -20,7 +20,7 @@ Station = Base.classes.station # Table station
 session = Session(engine)
 
 #define our app
-#_name__ variable in this code is a special type of variable in Python. 
+#__name__ variable in this code is a special type of variable in Python. 
 # Its value depends on where and how the code is run
 #for example if we wanted to import our app.py file into another Python file named example.py, 
 # the variable __name__ would be set to example.
