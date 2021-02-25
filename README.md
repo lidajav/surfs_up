@@ -21,7 +21,7 @@ This project is to create two queries from Measurment Table to get the tempretur
 
 ### Recomendations:
 
- Based on our queries and the statistics, we may want to look at more data for month of december and the stations that recorded the tempretures as the data is more spread out in December. We can also look at the station(s) who has recorded most of data and run these two queries for it. 
+ Based on our queries and the statistics, we may want to look at more data for month of december and the stations that recorded the tempretures as the data is more spread out in December. We can also look at the station(s) who has recorded most of data and run these two queries for it. We would also need to look at Precipitation for both of these months.
  By relying on current data, it seems we have a pretty consistent tempreture all across the year as we measured for the warmest and coldest months.The max tempreture are very close, 
  however the minimum tempreture drops by 12% from 64 degree in June to 56 in December. 
 
